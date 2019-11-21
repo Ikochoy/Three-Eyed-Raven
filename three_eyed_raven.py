@@ -4,8 +4,8 @@ Author: Koby Choy
 Date: 20th May, 2019
 ===============================================================================
 Project Aim: I have built a program to analyze the stock data of 0700, Tencent
-Holdings. This project aims to forecast the closing stock price of 0700 for two
-days in future.
+Holdings. This project aims to forecast the closing stock price of 0700 in the
+next day.
 ===============================================================================
 """
 import pandas as pd
